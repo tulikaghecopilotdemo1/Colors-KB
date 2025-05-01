@@ -1,6 +1,6 @@
 # Colors Knowledge Base (demo sample kb)
 
-Mark Harrison | 12 July 2024
+tulika | 01 July 2025
 
 [Colors](./colors.md)
 
